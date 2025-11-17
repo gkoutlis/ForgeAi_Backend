@@ -45,4 +45,4 @@ Over time, I'm refactoring and extending the code on my own, so this project ref
 
 ---
 
-*This clever brain powers the fabulous [ForgeAI Front-End](https://github.com/[ΤΟ_ΟΝΟΜΑ_ΣΟΥ]/forgeai-frontend) application!*
+*This clever brain powers the fabulous [ForgeAI Front-End](https://github.com/gkoutlis/ForgeAI-Frontend) application!*
